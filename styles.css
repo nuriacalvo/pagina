@@ -10,6 +10,12 @@ overflow: hidden;
 
 }
 
+body {
+  font-family: sans-serif; /* Elige una fuente sans-serif para mejor legibilidad */
+  background-color: black; /* Fondo negro */
+  color: white; /* Texto blanco */
+}
+
 
 
 .container {
