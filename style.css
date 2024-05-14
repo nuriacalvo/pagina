@@ -3428,7 +3428,7 @@ body .modal-backdrop {
   top: 0px;
   left: 0px;
   z-index: 0;
-  background: url("../images/bg/fondoweb.svg");
+  background: url("fondoweb.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
